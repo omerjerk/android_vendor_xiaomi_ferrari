@@ -513,6 +513,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/bin/sensor_select.sh:system/bin/sensor_select.sh \
     vendor/xiaomi/ferrari/proprietary/lib/hw/sensors.lsm6db0.so:system/lib/hw/sensors.lsm6db0.so \
     vendor/xiaomi/ferrari/proprietary/lib64/hw/sensors.lsm6db0.so:system/lib64/hw/sensors.lsm6db0.so \
+    vendor/xiaomi/ferrari/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/xiaomi/ferrari/proprietary/lib64/libsensorservice.so:system/lib64/libsensorservice.so \
     vendor/xiaomi/ferrari/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libTimeService.so:system/vendor/lib64/libTimeService.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
